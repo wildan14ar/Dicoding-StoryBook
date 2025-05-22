@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter Free",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--dart-define=FLAVOR=free"]
+    },
+    {
+      "name": "Flutter Paid",
+      "request": "launch",
+      "type": "dart",
+      "args": ["--dart-define=FLAVOR=paid"]
+    }
+  ]
+}

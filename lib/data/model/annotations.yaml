@@ -1,0 +1,5 @@
+targets:
+  - lib/data/models/login_result.dart
+  - lib/data/models/story.dart
+annotations:
+  - json_serializable
